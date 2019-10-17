@@ -1,0 +1,21 @@
+/* custom.scss */
+
+/* import google font */
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
+
+$headings-font-family: 'Hepta Slab', serif;
+$font-family-base: 'Grenze', serif;
+
+$navbar-padding: 100px;
+
+$navbar-dark-color: orange;
+$navbar-toggler-border-radius:20px;
+
+$body-bg: white;
+
+$body-sm: white;
+
+
+
+@import "bootstrap-4.0.0/scss/bootstrap";
+
